@@ -81,11 +81,3 @@ Como jugador quiero poder jugar Frogger para poder jugar con mis amigos o gente 
 	* **Criterios de Aceptación:**
 		* Cuando los 2 jugadores llenen las 5 casas deberían ganar la partida
 	* **Valor:** 10
-* El jugador debe poder obtener poderes generados en el mapa de manera aleatoria:
-	Como jugador quiero obtener poderes generados por el mapa para poder cumplir con el objetivo del juego
-	* **Estimación:** 8
-	* **Criterios de Aceptación:**
-		* El jugador al posarse encima de un poder debe obtenerlo
-		* Los poderes se deben generar en cualquier lugar del mapa
-		* Debe mostrarse el poder que tiene actualmente el jugador
-	* **Valor:** 10
