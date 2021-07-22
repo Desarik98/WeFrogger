@@ -75,8 +75,8 @@ Como jugador quiero poder jugar Frogger para poder jugar con mis amigos o gente 
 		* El jugador debe morir al posarse sobre un cocodrilo con la boca abierta.
 		* El jugador debe morir al ser atropellado por un vehículo.
 	* **Valor:** 10
-* El jugador debe ganar si los hogares están llenos:
-	Como jugador quiero ganar si los hogares están llenos para poder cumplir con el objetivo del juego
+* El jugador debe ganar si los pasa todos los obstaculos:
+	Como jugador quiero ganar si pase todos los obstaculos para poder cumplir con el objetivo del juego
 	* **Estimación:**	8
 	* **Criterios de Aceptación:**
 		* Cuando los 2 jugadores llenen las 5 casas deberían ganar la partida
